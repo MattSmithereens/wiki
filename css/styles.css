@@ -27,7 +27,7 @@ body {
   border-bottom: 2px solid black;
 }
 
-.green-table {
+/*.green-table {
   color: black;
   background-color: #d4f7c0;
   padding: 2px;
@@ -36,4 +36,17 @@ body {
 
 .green-table tr:nth-child(1) {
   background-color: #c3f7a5;
+}*/
+.featured {
+  background-color: #d4f7c0;
+  float: left;
+}
+
+.thenews {
+  background-color: #dbf9f6;
+  float: right;
+}
+
+.featuredpic {
+  background-color: purple;
 }
