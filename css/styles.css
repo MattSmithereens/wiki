@@ -5,6 +5,10 @@ body {
     background-color: #EFEFEF;
 }
 
+.paddage {
+  padding: 3px;
+}
+
 .sidebar {
   float: left;
   width: 10%;
@@ -27,16 +31,14 @@ body {
   border-bottom: 2px solid black;
 }
 
-/*.green-table {
-  color: black;
-  background-color: #d4f7c0;
+.featured h2 {
   padding: 2px;
-  border: none;
+  border: 1px solid green;
+  font-weight: bold;
+  font-size: 2em;
+   background-color: brown;
 }
 
-.green-table tr:nth-child(1) {
-  background-color: #c3f7a5;
-}*/
 .featured {
   background-color: #d4f7c0;
   float: left;
@@ -45,6 +47,15 @@ body {
 .thenews {
   background-color: #dbf9f6;
   float: right;
+
+}
+
+.thenews h2 {
+  padding: 2px;
+  border: 1px solid blue;
+  font-weight: bold;
+  font-size: 2em;
+   background-color: orange;
 }
 
 .featuredpic {
