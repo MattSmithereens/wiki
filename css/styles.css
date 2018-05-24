@@ -37,3 +37,18 @@ body {
 .green-table tr:nth-child(1) {
   background-color: #c3f7a5;
 }
+
+.blue-table {
+  color: black;
+  background-color: #dbf9f6;
+  padding: 2px;
+  border: none;
+}
+
+.blue-table tr:nth-child(1) {
+  background-color: #cbf4f0;
+}
+
+.right {
+  float: right;
+}
