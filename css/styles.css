@@ -1,6 +1,9 @@
 /*div {
   border: 2px solid black;
 }*/
+body {
+    background-color: #EFEFEF;
+}
 
 .sidebar {
   float: left;
@@ -9,5 +12,28 @@
 
 .container {
   float: right;
-  width: 90%;
+  width: 85%;
+  background-color: white;
+}
+
+.sidebar ul{
+  list-style-type: none;
+  padding-left: 10px;
+}
+
+.sidebar h3{
+  font-size: 1em;
+  padding-left: 10px;
+  border-bottom: 2px solid black;
+}
+
+.green-table {
+  color: black;
+  background-color: #d4f7c0;
+  padding: 2px;
+  border: none;
+}
+
+.green-table tr:nth-child(1) {
+  background-color: #c3f7a5;
 }
