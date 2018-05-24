@@ -1,0 +1,13 @@
+/*div {
+  border: 2px solid black;
+}*/
+
+.sidebar {
+  float: left;
+  width: 10%;
+}
+
+.container {
+  float: right;
+  width: 90%;
+}
