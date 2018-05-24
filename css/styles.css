@@ -38,6 +38,10 @@ body {
   background-color: #c3f7a5;
 }
 
+.green-table h3:nth-child(1) {
+  font-size: 1.2em;
+}
+
 .blue-table {
   color: black;
   background-color: #dbf9f6;
